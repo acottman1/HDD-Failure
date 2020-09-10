@@ -1,5 +1,5 @@
 # HDD-Failure
-#### An end to end project for predicting failure of hard disks (HDD) in a data center
+### An end to end project for predicting failure of hard disks (HDD) in a data center
 
 
 In this project, I will build a predictive model that seeks to inform the user when a hard disk drive will fail.  The data come from backblaze.com, and right now are approximatly 60 GB in size.  The data span from 2013 until the present. Each day, the readings for every single HDD are recorded in a csv file and are published each quarter.  Each row in the csv file is a single HDD, containing identification information, model information and all of the SMART readings.  SMART stands for Self-Monitoring and Reporting Technology.  
@@ -24,6 +24,8 @@ This project will demonstrate my ability to perform a number of data science ski
   * Unsupervised clusering
   * Dashboard creation
   
+  ## Associated files
+  [Google Docs Folder](https://drive.google.com/drive/folders/1vj-HbpvR-ZXppXnqF-QOqTa_jT-6x1hd?usp=sharing)
   
   ## Data
   The data is from backblaze and can be [found here](https://www.backblaze.com/b2/hard-drive-test-data.html#downloading-the-raw-hard-drive-test-data)
