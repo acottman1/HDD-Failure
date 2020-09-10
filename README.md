@@ -14,19 +14,22 @@ The impetus for this project came from an interview for a data science job that 
 I will create this project in R, initallly, and migrate to python if needed.  The main driver for this decision is my comfortability with creating dashboards in RShiny.  I have access to the George Mason ARGO high performance computing cluster, and will use that for the full training of my model since my 2016 MacBook is woefully underpowered to deal with the size of the data I am working with.  The project will most likley be deployed through the free RStudio hosting page, but if it is too large, or unable to be done for some reason, I will find a different location to Host it.
 
 This project will demonstrate my ability to perform a number of data science skills including:
-  -working with larger amounts of data
-  -High(ish) dimentional data
-  -dementiality reduction
-  -time series analysis
-  -statistical analysis
-  -anomaly detection
-  -supervised classification
-  -unsupervised clusering
-  -dashboard creation
+  * working with larger amounts of data
+  * High(ish) dimentional data
+  * Dementiality reduction
+  * Time series analysis
+  * Statistical analysis
+  * Anomaly detection
+  * Supervised classification
+  * Unsupervised clusering
+  * Dashboard creation
   
   
-  # Data
+  ## Data
   The data is from backblaze and can be [found here](https://www.backblaze.com/b2/hard-drive-test-data.html#downloading-the-raw-hard-drive-test-data)
   
+  ## Refernces
+  Inital reading to learn about what the SMART monitoring system is came from [Wikipedia](https://en.wikipedia.org/wiki/S.M.A.R.T.) 
   
+  Other resources that I use to complete this project will be addded over time.
   
