@@ -20,6 +20,7 @@ This project will demonstrate my ability to perform a number of data science ski
   * Time series analysis
   * Statistical analysis
   * Anomaly detection
+  * Feature engineering
   * Supervised classification
   * Unsupervised clusering
   * Dashboard creation
